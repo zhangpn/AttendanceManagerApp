@@ -1,0 +1,16 @@
+{
+  "name": "AttendanceManagerApp",
+  "version": "0.0.2",
+  "description": "Attendance Manager web application for Nashville after school providers to track student attendance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangpn/AttendanceManagerApp.git"
+  },
+  "author": "Dana Zhang",
+  "contributors": ["Fangzhou Sun", "Qishen Zhang"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangpn/AttendanceManagerApp/issues"
+  },
+  "homepage": "https://github.com/zhangpn/AttendanceManagerApp"
+}

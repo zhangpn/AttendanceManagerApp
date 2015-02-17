@@ -1,0 +1,10 @@
+lib-cov
+*.log
+
+logs
+
+npm-debug.log
+node_modules
+.idea
+
+public/libs

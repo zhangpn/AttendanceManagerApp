@@ -1,0 +1,14 @@
+{
+    "name": "AttendanceManagerApp",
+    "version": "0.0.2",
+    "dependencies": {
+        "bootstrap": "latest",
+        "angular": "latest",
+        "angular-route": "latest"
+    },
+    "homepage": "https://github.com/zhangpn/AttendanceManagerApp",
+    "authors": [
+        "zhangpn <danakzhang@gmail.com>"
+    ],
+    "license": "MIT"
+}
