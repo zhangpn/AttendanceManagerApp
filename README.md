@@ -25,3 +25,6 @@ More specific requirements of the application are listed below:
 *	Be flexible enough to be used by other MNPS interventions in addition to NAZA, and potentially interventions used by other school systems.
 
 View the prototype for the attendance application in .pdf format [here](https://github.com/zhangpn/cs279AttendanceManager/blob/master/prototype/Attendance%20App%20Prototype.pdf). 
+
+## Usage
+To run the project, run command `sudo npm install -g bower` and then `bower install`
